@@ -1,10 +1,10 @@
-「目の前に立ちはだがる　高い高い壁
+> Creating things that I can truly proud of!
 
-　その向こうは　どんな眺めだろか
- 
-　どんなふうに見えるのだろうか
- 
-　頂の景色」
+This is zhuzilin, coder, design amateur and anime fan.
+
+You can ask me about deep learning frameworks. I'm contributor of tensorflow, pytorch and horovod.
+
+Learning design and web frontend in my free time, right now focusing on SwiftUI and Svelte.
 
 ---
 
