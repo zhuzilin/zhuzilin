@@ -8,6 +8,8 @@ Learning design and web frontend in my free time, right now focusing on SwiftUI 
 
 ---
 
+> 做出可以为之骄傲的东西！
+
 这里是 zhuzilin，coder、热血番厨、造轮子狂热爱好者、技术翻译初心者、设计入门中、日语渣。
 
 比较了解深度学习框架，是 tensorflow, pytorch 和 horovod 的 contributor。
