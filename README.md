@@ -4,7 +4,9 @@ This is zhuzilin, coder and anime fan.
 
 You can ask me about deep learning frameworks. I'm contributor of tensorflow, pytorch and horovod.
 
-Learning to write compiler in my free time.
+I'm currently in WeChat's LLM team and interested in everything relates to LLM.
+
+Avatar is Shoyo Hinata, from _Haikyu!!_.
 
 ---
 
@@ -12,6 +14,6 @@ Learning to write compiler in my free time.
 
 比较了解深度学习框架，是 tensorflow, pytorch 和 horovod 的 contributor。
 
-在间断性学习编译原理和 PL。
+我目前在微信的大模型团队打工，对大模型相关的一切都很感兴趣~
 
 头像是日向翔阳，《排球少年》。
