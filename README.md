@@ -1,4 +1,4 @@
-> Hoping to be what Paul Graham called [hacker](http://www.paulgraham.com/hp.html).
+> AI is the next chip.
 
 Hey, I'm zhuzilin, an engineer driven by curiosity.
 
