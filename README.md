@@ -10,7 +10,7 @@ My main focus is on MLSys.
 
 I'm also interested in JavaScript engine. I've read the es5 spec to write [es](https://github.com/zhuzilin/es) and helped fixed bugs in the early stage of [oven-sh/bun](https://github.com/oven-sh/bun).
 
-Avatar is Shoyo Hinata, from _Haikyu!!_.
+Avatar is Frieren, from _Frieren: Beyond Journey's End_.
 
 ---
 
@@ -24,4 +24,4 @@ Avatar is Shoyo Hinata, from _Haikyu!!_.
 
 我对 JavaScript 引擎也比较感兴趣。读过 spec，写过解释器（[es](https://github.com/zhuzilin/es)），还给早期的 [oven-sh/bun](https://github.com/oven-sh/bun) 提过一些 bugfix。
 
-头像是日向翔阳，《排球少年》。
+头像是芙莉莲，《葬送的芙莉莲》。
