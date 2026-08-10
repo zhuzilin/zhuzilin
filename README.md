@@ -1,5 +1,5 @@
 
-> AI is the next chip.
+> Aim for hard-to-verify tasks.
 
 Hey, I'm **zhuzilin** — an engineer driven by curiosity.
 
