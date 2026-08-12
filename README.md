@@ -29,4 +29,5 @@ My avatar is **Frieren**, from *Frieren: Beyond Journey's End*.
 
 btw, this is my cat~
 
-<img width="680" height="512" alt="lvge" src="https://github.com/user-attachments/assets/bec52ed7-b676-41c9-9aa7-0e157f409792" />
+<img width="400" height="400" alt="lvge" src="https://github.com/user-attachments/assets/1ef0bce5-a067-43b1-a690-0bb3da89b6f0" />
+
